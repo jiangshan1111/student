@@ -1,0 +1,26 @@
+/* html{font-size:625%} */
+body,p,ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,hr,hearder,footer,blockquote,object,iframe,fieldset,input,legend,form,th,td{margin:0;padding:0}
+/* body,input,textarea,keygen,select,button,isindex,pre{font:0.1rem/0.2rem Cambria;color:#333;word-break:break-all} */
+* {box-sizing: border-box;}
+a{ cursor:pointer; color:#6e6e6e;text-decoration:none;}
+a:hover,a:focus{ outline:none}
+i,b,strong{ font-style:normal; font-weight:normal}
+pre{white-space:normal}
+ul,ol,li{list-style:none}
+img{border:none}
+.hide,.pop{ display:none}
+.overflow_hide{ overflow:hidden}
+button{ border:none; background:none}
+button:focus{ outline:none}
+h1,h2,h3,h4,h5,h6,em,strong{ font-weight:normal; font-size:inherit}
+em,strong{ font-style:normal}
+::-webkit-scrollbar {
+  width: 5px;
+  border-radius: 15px;
+}
+::-webkit-scrollbar-track {
+  background-color: #edebeb;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #afb1b3;
+}

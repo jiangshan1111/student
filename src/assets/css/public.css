@@ -1,0 +1,54 @@
+/* height */
+.height-60 {
+  height: 60px;
+}
+.height-40 {
+  height: 40px;
+}
+/* line-height */
+.line-height-60 {
+  line-height: 60px !important;
+}
+.line-height-40 {
+  line-height: 40px !important;
+}
+/* margin */
+.mg-top-13 {
+  margin-top: 13px !important;
+}
+.mg-top-3 {
+  margin-top: 3px !important;
+}
+.mg-bottom-10 {
+  margin-bottom: 10px !important;
+}
+.no-margin {
+  margin: 0 !important;
+}
+/* color */
+.color-black {
+  color: #000 !important;
+}
+/* padding */
+.no-padding {
+  padding: 0 !important;
+}
+.pading-4-1-rem {
+  padding: 0 4.1rem;
+}
+.fl {
+  float: left;
+}
+.fr {
+  float: right !important;
+}
+.clear::after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.clearfix::after {
+  content: '';
+  display: block;
+  clear: both;
+}
